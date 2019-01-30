@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-12-21 17:59+0000\n"
-"PO-Revision-Date: 2019-01-23 10:53+0000\n"
+"PO-Revision-Date: 2019-01-30 18:39+0000\n"
 "Last-Translator: mgianno <mikeg@transifex.com>, 2019\n"
 "Language-Team: Greek (https://beta.transifex.com/mgianno/teams/95434/el/)\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: addons/watches/static/watches/js/watch_toggle.js:29
 msgid "Watch project"
-msgstr "Παρακολούθησε το έργο"
+msgstr "Παρακολούθησε το έργο αυτό"
 
 #: addons/watches/static/watches/js/watch_toggle.js:32
 msgid "Stop watching project"
